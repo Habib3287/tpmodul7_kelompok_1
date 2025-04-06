@@ -1,8 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Text.Json;
-
-internal class KuliahMahasiswa103022330089
+ class KuliahMahasiswa103022330068
 {
     public class MataKuliah
     {
@@ -17,7 +16,7 @@ internal class KuliahMahasiswa103022330089
 
     public void readJSON()
     {
-        var dataJson = File.ReadAllText("../../../tp7_2_103022330089.json");
+        var dataJson = File.ReadAllText("../../../tp7_2_103022330068.json");
 
         var jadwal = JsonSerializer.Deserialize<Courses>(dataJson, new JsonSerializerOptions { IncludeFields = true });
         Console.WriteLine("Daftar Mata Kuliah");
@@ -32,7 +31,7 @@ internal class KuliahMahasiswa103022330089
     {
         public static void Main(string[] args)
         {
-            KuliahMahasiswa103022330089 kuliah = new KuliahMahasiswa103022330089();
+            KuliahMahasiswa103022330068 kuliah = new KuliahMahasiswa103022330068();
             kuliah.readJSON();
         }
     }
