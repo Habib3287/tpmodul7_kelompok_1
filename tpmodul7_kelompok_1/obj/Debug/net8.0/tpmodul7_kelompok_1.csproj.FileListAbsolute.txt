@@ -1,0 +1,15 @@
+C:\Users\gilang tirta\source\repos\tpmodul7_kelompok_1\tpmodul7_kelompok_1\bin\Debug\net8.0\tpmodul7_kelompok_1.exe
+C:\Users\gilang tirta\source\repos\tpmodul7_kelompok_1\tpmodul7_kelompok_1\bin\Debug\net8.0\tpmodul7_kelompok_1.deps.json
+C:\Users\gilang tirta\source\repos\tpmodul7_kelompok_1\tpmodul7_kelompok_1\bin\Debug\net8.0\tpmodul7_kelompok_1.runtimeconfig.json
+C:\Users\gilang tirta\source\repos\tpmodul7_kelompok_1\tpmodul7_kelompok_1\bin\Debug\net8.0\tpmodul7_kelompok_1.dll
+C:\Users\gilang tirta\source\repos\tpmodul7_kelompok_1\tpmodul7_kelompok_1\bin\Debug\net8.0\tpmodul7_kelompok_1.pdb
+C:\Users\gilang tirta\source\repos\tpmodul7_kelompok_1\tpmodul7_kelompok_1\obj\Debug\net8.0\tpmodul7_kelompok_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilang tirta\source\repos\tpmodul7_kelompok_1\tpmodul7_kelompok_1\obj\Debug\net8.0\tpmodul7_kelompok_1.AssemblyInfoInputs.cache
+C:\Users\gilang tirta\source\repos\tpmodul7_kelompok_1\tpmodul7_kelompok_1\obj\Debug\net8.0\tpmodul7_kelompok_1.AssemblyInfo.cs
+C:\Users\gilang tirta\source\repos\tpmodul7_kelompok_1\tpmodul7_kelompok_1\obj\Debug\net8.0\tpmodul7_kelompok_1.csproj.CoreCompileInputs.cache
+C:\Users\gilang tirta\source\repos\tpmodul7_kelompok_1\tpmodul7_kelompok_1\obj\Debug\net8.0\tpmodul7_kelompok_1.sourcelink.json
+C:\Users\gilang tirta\source\repos\tpmodul7_kelompok_1\tpmodul7_kelompok_1\obj\Debug\net8.0\tpmodul7_kelompok_1.dll
+C:\Users\gilang tirta\source\repos\tpmodul7_kelompok_1\tpmodul7_kelompok_1\obj\Debug\net8.0\refint\tpmodul7_kelompok_1.dll
+C:\Users\gilang tirta\source\repos\tpmodul7_kelompok_1\tpmodul7_kelompok_1\obj\Debug\net8.0\tpmodul7_kelompok_1.pdb
+C:\Users\gilang tirta\source\repos\tpmodul7_kelompok_1\tpmodul7_kelompok_1\obj\Debug\net8.0\tpmodul7_kelompok_1.genruntimeconfig.cache
+C:\Users\gilang tirta\source\repos\tpmodul7_kelompok_1\tpmodul7_kelompok_1\obj\Debug\net8.0\ref\tpmodul7_kelompok_1.dll
