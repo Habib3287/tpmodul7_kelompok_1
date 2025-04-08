@@ -1,0 +1,33 @@
+{
+    "courses": [
+      {
+        "code": "CRI2C4",
+        "name": "Konstruksi Perangkat Lunak"
+      },
+      {
+        "code": "CRI2B3",
+        "name": "Basis Data"
+      },
+      {
+        "code": "CRI2C5",
+        "name": "Arsitektur & Desain Perangkat Lunak"
+      },
+      {
+        "code": "CRI2B4",
+        "name": "Kecerdasan Buatan"
+      },
+      {
+        "code": "CRI2B5",
+        "name": "Dasar Jaringan Komputer"
+      },
+      {
+        "code": "UMU2A3",
+        "name": "Pendidikan Agama"
+      },
+      {
+        "code": "UMU2A4",
+        "name": "Pancasila"
+      }
+    ]
+  }
+  
